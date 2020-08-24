@@ -1,0 +1,7 @@
+domain: io
+repo: newRavi/hardware-classification
+resources:
+- group: metal3
+  kind: HardwareClassification
+  version: v1alpha1
+version: "2"
