@@ -5,4 +5,4 @@ kind: Kustomization
 images:
 - name: controller
   newName: ravi2908/hwcc
-  newTag: x1
+  newTag: x2
